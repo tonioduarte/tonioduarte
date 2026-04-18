@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 👨‍🎓 Data Science and AI Student at UFPB, currently interested in Front-End area :)
-- 💐 Studying Fron-End
+- 👨‍🎓 Data Science and AI Student at UFPB :)
+- 💐 Studying Front-End
 - 😊 Pronouns: He/Him
 
 
