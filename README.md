@@ -20,9 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,mysql,nodejs,html,css,js,php,react" />
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" />
-    <img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,nodejs,html,css,js,php,react,pandas,canva" />
   </a>
 </p>
 
