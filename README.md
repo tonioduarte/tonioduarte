@@ -39,6 +39,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonioduarte&layout=compact&hide_border=true&title_color=B58900&text_color=839496&bg_color=002B36" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tonioduarte&hide_border=true&background=002B36&ring=B58900&fire=CB4B16&currStreakLabel=B58900&sideLabels=839496&dates=586E75&currStreakNum=FDF6E3&sideNums=FDF6E3" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tonioduarte&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 </p>
 
