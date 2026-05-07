@@ -35,8 +35,7 @@
 
 ---
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tonioduarte&show_icons=true&hide_border=true&title_color=B58900&icon_color=CB4B16&text_color=839496&bg_color=002B36&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonioduarte&layout=compact&hide_border=true&title_color=B58900&text_color=839496&bg_color=002B36" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonioduarte" />
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tonioduarte&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
