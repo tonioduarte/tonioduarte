@@ -39,6 +39,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonioduarte&layout=compact&hide_border=true&title_color=B58900&text_color=839496&bg_color=002B36" />
 </p>
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=tonioduarte&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tonioduarte&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
